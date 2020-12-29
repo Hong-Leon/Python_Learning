@@ -12,5 +12,8 @@
 
 <span style="display:none"></span>
 
-### Trick, switch two variables in one line:
-a, b = b, a
+###Trick 
+switch two variables in one line: a, b = b, a 将a,b中的值互换
+
+
+print(1,2,3)
